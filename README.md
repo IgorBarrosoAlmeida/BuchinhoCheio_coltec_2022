@@ -1,8 +1,6 @@
 <h1>Projeto Restaurante Buchinho Cheio</h1>
 <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-O projeto Insta Pet foi proposto no trabalho final da disciplina de AEDS (Algoritmo e Estrutura de Dados). Os alunos tiveram aproximadamente 1 semana para realizar o trabalho conciliando com as outras disciplinas. Todo o projeto é explicado em detalhes a seguir (as informações seguintes estavam em um arquivo disponibilizado pela professora):
-
 ##
 
 TERCEIRA TRIMESTRAL 2022
